@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhatsApp Whisper Transcriber</string>
+    <string name="accessibility_description">מנטר הודעות קוליות בוואטסאפ מ-24 השעות האחרונות ומציג תמלול ב-Overlay מקומי</string>
+</resources>
